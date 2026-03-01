@@ -1,73 +1,48 @@
-# Welcome to your Lovable project
+🧺 TT Dry Cleaning – Static Website & Local SEO Project
+Internship Project Summary
+📌 Project Overview
 
-## Project info
+Developed a minimal, fast, and mobile-friendly static website for TT Dry Cleaning, a local laundry service near SRM Ramapuram, Porur, Chennai.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+The website acts as a digital identity platform to increase local visibility, build trust, and improve customer inquiries through calls and WhatsApp.
 
-## How can I edit this code?
+🎯 Objective
 
-There are several ways of editing your application.
+Improve Google local search visibility
 
-**Use Lovable**
+Increase student inquiries
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Build trust through transparent information
 
-Changes made via Lovable will be committed automatically to this repo.
+Create a professional online presence
 
-**Use your preferred IDE**
+🏗 Key Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Clean and mobile-first UI
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Clear service categorization
 
-Follow these steps:
+WhatsApp & Call integration
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Google Maps embedding
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Fast-loading static architecture
 
-# Step 3: Install the necessary dependencies.
-npm i
+📈 SEO Strategy
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Location-based keywords (SRM Ramapuram, Porur, Chennai)
 
-**Edit a file directly in GitHub**
+NAP consistency (Name, Address, Phone)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Optimized page structure for local search
 
-**Use GitHub Codespaces**
+Lightweight performance-focused design
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+👨‍💻 Intern Learning Outcomes
 
-## What technologies are used for this project?
+Practical Local SEO implementation
 
-This project is built with:
+UX thinking for mobile users
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Real-world business understanding
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
